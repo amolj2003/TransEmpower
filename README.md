@@ -15,9 +15,35 @@
 <img  alt="UN" width="180" height="120" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cb6fb32c-944d-4c0e-bef4-3dc663bf2a7d">
 <img  alt="UN" width="180" height="120" src="https://github.com/amolj2003/TransEmpower/assets/114354608/37d3015b-0ed7-4776-89ce-c686396cff77">
 
- <h1>Welcome to the Transgender Support App</h1>
+section {
+            margin-bottom: 30px;
+        }
+        /* Define different background images for each section */
+        .safety::before {
+            background-image: url('safety_image.jpg'); /* Add the path to your image */
+        }
+        .education::before {
+            background-image: url('education_image.jpg'); /* Add the path to your image */
+        }
+        .job-openings::before {
+            background-image: url('job_openings_image.jpg'); /* Add the path to your image */
+        }
+        .community-meetups::before {
+            background-image: url('community_meetups_image.jpg'); /* Add the path to your image */
+        }
+        .community-forum::before {
+            background-image: url('community_forum_image.jpg'); /* Add the path to your image */
+        }
+        .legal-rights::before {
+            background-image: url('legal_rights_image.jpg'); /* Add the path to your image */
+        }
+    </style>
+</head>
+<body>
 
-  <section id="safety">
+<h1>Welcome to the Transgender Support App</h1>
+
+  <section class="safety">
         <h2>Safety Features</h2>
         <ul>
             <li>Emergency contact button: A quick and discreet way to notify pre-selected contacts in case of an emergency.</li>
@@ -25,7 +51,7 @@
         </ul>
     </section>
 
-  <section id="education">
+   <section class="education">
         <h2>Education Section</h2>
         <ul>
             <li>Resources: Provide comprehensive information on transgender-related topics, including terminology, medical procedures, and mental health resources.</li>
@@ -33,7 +59,7 @@
         </ul>
     </section>
 
-  <section id="job-openings">
+   <section class="job-openings">
         <h2>Job Openings</h2>
         <ul>
             <li>Job board: A platform that aggregates job openings from companies committed to diversity and inclusion.</li>
@@ -41,7 +67,7 @@
         </ul>
     </section>
 
-  <section id="community-meetups">
+   <section class="community-meetups">
         <h2>Community Meetups</h2>
         <ul>
             <li>Event calendar: Highlight local and online events, support groups, and meetups for the transgender community.</li>
@@ -49,18 +75,18 @@
         </ul>
     </section>
 
-  <section id="community-forum">
+   <section class="community-forum">
         <h2>Community Forum</h2>
         <ul>
             <li>Discussion boards: Create forums for users to discuss a variety of topics, ask questions, and share experiences.</li>
             <li>Moderation tools: Implement measures to ensure a safe and respectful space for all users.</li>
         </ul>
     </section>
-
-   <section id="legal-rights">
+    <section class="legal-rights">
         <h2>Legal Rights Information</h2>
         <ul>
             <li>Legal guides: Provide easy-to-understand information on transgender rights, anti-discrimination laws, and other legal protections.</li>
             <li>Updates on policy changes: Keep users informed about any changes in legislation affecting the transgender community.</li>
         </ul>
     </section>
+
