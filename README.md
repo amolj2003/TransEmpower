@@ -18,8 +18,7 @@
 
 
 <h1>Welcome to the Transgender Support App</h1>
-<br>
-<br>
+
 <img align="left" alt="UN" width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/08c53bb6-927c-412f-88a5-4d48c2ad93bc">
   <h2>Safety Features</h2>
         <ul>
@@ -36,7 +35,7 @@
             <li>Articles and videos: Regularly update content covering a range of subjects, from identity exploration to legal rights.</li>
         </ul>
     </section>
-<img align="left" alt="UN" width="150" height="150" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cc53ff44-0123-4c6c-9e5a-17858592ce13">
+<img align="left" alt="UN"  width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cc53ff44-0123-4c6c-9e5a-17858592ce13">
    <section class="job-openings">
         <h2>Job Openings</h2>
         <ul>
@@ -45,7 +44,7 @@
         </ul>
     </section>
     
-<img align="left" alt="UN" width="150" height="150" src="https://github.com/amolj2003/TransEmpower/assets/114354608/a3f904c0-c110-4e37-993e-a7ed041101d8">
+<img align="left" alt="UN"  width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/a3f904c0-c110-4e37-993e-a7ed041101d8">
 
    <section class="community-meetups">
         <h2>Community Meetups</h2>
@@ -55,7 +54,7 @@
         </ul>
     </section>
     
-<img align="left" alt="UN" width="150" height="150" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cdc7119f-8cfe-448b-a098-e49be663830b">
+<img align="left" alt="UN"  width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cdc7119f-8cfe-448b-a098-e49be663830b">
 
    <section class="community-forum">
         <h2>Community Forum</h2>
@@ -64,7 +63,7 @@
             <li>Moderation tools: Implement measures to ensure a safe and respectful space for all users.</li>
         </ul>
     </section>
-  <img align="left" alt="UN" width="150" height="150" src="https://github.com/amolj2003/TransEmpower/assets/114354608/2fd6eea8-7611-4754-9033-6c86bd9e1b87">
+  <img align="left" alt="UN"  width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/2fd6eea8-7611-4754-9033-6c86bd9e1b87">
     <section class="legal-rights">
         <h2>Legal Rights Information</h2>
         <ul>
