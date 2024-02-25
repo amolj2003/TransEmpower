@@ -53,7 +53,7 @@
         </ul>
     </section>
     
-<img align="left" alt="UN" width="150" height="150" src="(https://github.com/amolj2003/TransEmpower/assets/114354608/cdc7119f-8cfe-448b-a098-e49be663830b">
+<img align="left" alt="UN" width="150" height="150" src="https://github.com/amolj2003/TransEmpower/assets/114354608/cdc7119f-8cfe-448b-a098-e49be663830b">
 
    <section class="community-forum">
         <h2>Community Forum</h2>
