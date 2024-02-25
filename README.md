@@ -18,6 +18,8 @@
 
 
 <h1>Welcome to the Transgender Support App</h1>
+<br>
+<br>
 <img align="left" alt="UN" width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/08c53bb6-927c-412f-88a5-4d48c2ad93bc">
   <h2>Safety Features</h2>
         <ul>
