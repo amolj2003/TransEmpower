@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Transempower",
-    "slug": "Transempower",
+    "slug": "empower",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.amolj2003.empower"
     },
     "web": {
       "bundler": "metro",
@@ -34,6 +35,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c221acf2-558d-4370-99e2-78f445b9b56b"
+      }
+    },
+    "owner": "amolj2003"
   }
 }
