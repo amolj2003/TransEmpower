@@ -20,12 +20,14 @@
 <h1>Welcome to the Transgender Support App</h1>
 
 <img align="left" alt="UN" width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/08c53bb6-927c-412f-88a5-4d48c2ad93bc">
+ <section class="education">
   <h2>Safety Features</h2>
         <ul>
             <li>Emergency contact button: A quick and discreet way to notify pre-selected contacts in case of an emergency.</li>
             <li>Location sharing: An optional feature that allows users to share their location with trusted contacts.</li>
         </ul>
     </section>
+    
 <img align="left" alt="UN" width="100" height="100" src="https://github.com/amolj2003/TransEmpower/assets/114354608/b02f1108-94d6-414c-9cd1-8a510f6c064a">
 
    <section class="education">
